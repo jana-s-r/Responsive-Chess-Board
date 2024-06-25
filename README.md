@@ -13,7 +13,7 @@ This project demonstrates a simple implementation of a Responsive Chess-Board us
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the index.html file in your web browser to view the chess board.
+2. Open the index.html file in your web browser to view the Chess-Board.
 
 
 ## Live Demo
