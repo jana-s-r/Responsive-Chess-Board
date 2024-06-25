@@ -1,6 +1,6 @@
 # Responsive-Chess-Board
 
-This project demonstrates a simple implementation of a Responsive Chess-Board using HTML and CSS.It provides a static representation of a standard 8x8 Responsive Chess-Board layout.
+This project demonstrates a simple implementation of a Responsive Chess-Board using HTML and CSS. It provides a static representation of a standard 8x8 Responsive Chess-Board layout.
 
 
 
